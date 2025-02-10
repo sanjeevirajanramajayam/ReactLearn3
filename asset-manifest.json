@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sanjeevirajanramajayam/ReactLearn3/static/css/main.db865234.css",
-    "main.js": "/sanjeevirajanramajayam/ReactLearn3/static/js/main.ad77085c.js",
-    "static/js/453.ad6eb26e.chunk.js": "/sanjeevirajanramajayam/ReactLearn3/static/js/453.ad6eb26e.chunk.js",
-    "index.html": "/sanjeevirajanramajayam/ReactLearn3/index.html",
-    "main.db865234.css.map": "/sanjeevirajanramajayam/ReactLearn3/static/css/main.db865234.css.map",
-    "main.ad77085c.js.map": "/sanjeevirajanramajayam/ReactLearn3/static/js/main.ad77085c.js.map",
-    "453.ad6eb26e.chunk.js.map": "/sanjeevirajanramajayam/ReactLearn3/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "/ReactLearn3/static/css/main.db865234.css",
+    "main.js": "/ReactLearn3/static/js/main.5cdbdc03.js",
+    "static/js/453.ad6eb26e.chunk.js": "/ReactLearn3/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/ReactLearn3/index.html",
+    "main.db865234.css.map": "/ReactLearn3/static/css/main.db865234.css.map",
+    "main.5cdbdc03.js.map": "/ReactLearn3/static/js/main.5cdbdc03.js.map",
+    "453.ad6eb26e.chunk.js.map": "/ReactLearn3/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db865234.css",
-    "static/js/main.ad77085c.js"
+    "static/js/main.5cdbdc03.js"
   ]
 }
